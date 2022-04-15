@@ -5,6 +5,5 @@
 - 📫 I am reachable on noorhwarsi@gmail.com
 
 <!---
-NoorWarsi/NoorWarsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+I am a keen learner and always looking for new and exciting projects. Looking forward to work on some Python projects regarding financial data analysis
 --->
